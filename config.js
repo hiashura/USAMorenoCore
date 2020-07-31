@@ -1,4 +1,4 @@
-var api = "45.77.2.72.vultr.com";
+var api = "http://cryppit.com:8117";
 
 var coinUnits = 1000000000000;
 
